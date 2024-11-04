@@ -6,6 +6,10 @@ Become a SQL query wizard and never be afraid to look at a large SQL query again
 
 This GitHub Repository will include the Source Code for the [Master SQL For Data Science Course](https://www.udemy.com/course/master-sql-for-data-science/) from JRP (Job Ready Programmer)
 
+
+(Work in progress ⏳)
+
+
 ## About the Course :
 
 - This course will turn you into a SQL query wizard. You'll learn the skills you need to extract critical insight from data sitting in a database.
@@ -57,5 +61,3 @@ Enroll today to become a Master SQL Data Science Developer. As always, I offer a
 - Take the twin highway of Learning Data Analysis and Software Development on a single platform: Job Ready Programmer
 
 <img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/JobReadyProgrammer/JobReadyProgrammer/main/JRP_GitHub_Banner.png" onclick="https://www.jobreadyprogrammer.com/p/all-access-pass?coupon_code=GET_HIRED_ALREADY">
-
-(Work in progress ⏳)
